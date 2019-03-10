@@ -1,4 +1,5 @@
 ﻿using MyShop.Core.Models;
+using MyShop.DataAccess.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
